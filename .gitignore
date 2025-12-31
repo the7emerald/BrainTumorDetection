@@ -1,3 +1,8 @@
+/archive
+/10epoch.weights.h5
+/ResNetFineTuned.h5
+/ResNetFineTuned.keras
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
